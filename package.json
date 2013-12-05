@@ -1,0 +1,15 @@
+{
+  "name": "AnNode",
+  "description": "Advanced nodejs application skeleton with AngularJs on the frontend",
+  "version": "0.0.1",
+  "private": true,
+   "author": {
+    "name": "Sergey Nabiulin",
+    "email": "elbox@tut.by"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "ejs": "*",
+    "nconf": "0.6.9"
+  }
+}

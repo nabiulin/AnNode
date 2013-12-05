@@ -3,8 +3,8 @@ AnNode
 
 Advanced nodejs skeleton with express and AngularJs on the frontend
 
-<h2>Installation</h2><br />
+<h3>Installation</h3>
 npm install
 
-<h2>Run</h2><br />
+<h3>Run</h3>
 node app.js
